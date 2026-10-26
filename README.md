@@ -1,5 +1,7 @@
 # ا Elif
 
+**[elifnurdemir.github.io/elif](https://elifnurdemir.github.io/elif/)**
+
 *Elif* hem bir isim, hem bir harf: alfabenin ilki. Tek, dimdik bir çizgi.
 
 Gece, bir çayır. Çimenler rüzgârda sallanır, aralarında ateşböcekleri yanıp söner. Her biri bir hata.
@@ -33,6 +35,7 @@ Sol alttaki *Test ortamı* ile saat ve hava elle seçilebilir; adresten de olur:
 npm install
 npm run dev      # http://localhost:5173
 npm run build    # dist/
+npm run deploy   # GitHub Pages: https://elifnurdemir.github.io/elif/
 ```
 
 İçerik (hakkımda, test akışı, çalışmalar, iletişim bağlantıları, yakalanan hatalar) tek bir dosyada: `src/content.ts`.
